@@ -1,5 +1,3 @@
-readme_content = """# VitalVision
-
 VitalVision is an AI-powered healthcare assistant and medical analysis platform. It features a modern React-based frontend for user interactions (including a chatbot and risk display) and a robust Python backend that leverages machine learning models for medical data analysis and patient prioritization.
 
 ## 🚀 Features
