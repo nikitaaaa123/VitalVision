@@ -1,0 +1,6 @@
+flask
+flask-cors
+transformers
+pandas
+python-dotenv
+torch  # or tensorflow
